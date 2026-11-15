@@ -1,0 +1,6 @@
+{
+  "name": "Space Command: Lunar Outpost Simulator",
+  "description": "An educational engineering simulation for the 2026 NASA Space Apps Challenge where you command a 4-astronaut lunar south pole research outpost across five interconnected subsystems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
